@@ -1,0 +1,1850 @@
+{
+"Planilha1":[
+ {
+  "Jogo": 1,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Aloísio / João",
+  "Data": "02/25/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 2,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "02/25/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 3,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vini / Du",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 4,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "02/26/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 5,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "02/23/2024",
+  "Local": "SPORTING BAR"
+ },
+ {
+  "Jogo": 6,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "02/26/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 7,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "02/29/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 8,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Thyago / Xarope",
+  "Data": "02/20/2024"
+ },
+ {
+  "Jogo": 9,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Will / Max",
+  "Data": "02/21/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 10,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Fabio / Fred",
+  "Data": "02/28/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 11,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "03/01/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 12,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "03/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 13,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Betim / Nene",
+  "Data": "02/28/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 14,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "03/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 15,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "03/04/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 16,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "02/28/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 17,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "03/01/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 18,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "03/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 19,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 20,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "03/02/2024",
+  "Local": "SPORTING BAR"
+ },
+ null,
+ {
+  "Jogo": 21,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "03/15/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 22,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Aloísio / João",
+  "Data": "03/06/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 23,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "03/08/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 24,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vini / Du",
+  "Data": "03/16/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 25,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "03/13/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 26,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "03/12/2024",
+  "Local": "ARENA JAMEL"
+ },
+ {
+  "Jogo": 27,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "03/06/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 28,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "03/06/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 29,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Thyago / Xarope",
+  "Data": "03/08/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 30,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Will / Max",
+  "Data": "03/06/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 31,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Betim / Nene",
+  "Data": "03/13/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 32,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Fabio / Fred",
+  "Data": "03/21/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 33,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "03/14/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 34,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "03/11/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 35,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "03/13/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 36,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "03/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 37,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "03/19/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 38,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "03/12/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 39,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "03/19/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 40,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "03/13/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 41,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vini / Du",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 42,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "03/29/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 43,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Aloísio / João",
+  "Data": "03/29/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 44,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "03/19/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 45,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "03/23/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 46,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "WO "
+ },
+ {
+  "Jogo": 47,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "03/27/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 48,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "03/28/2024",
+  "Local": "ARENA JAMEL"
+ },
+ {
+  "Jogo": 49,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "03/23/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 50,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Thyago / Xarope",
+  "Data": "03/12/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 51,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "04/02/2024",
+  "Local": "SPORTING BAR"
+ },
+ {
+  "Jogo": 52,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Will / Max",
+  "Data": "WO",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 53,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Fabio / Fred",
+  "Data": "04/03/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 54,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "03/29/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 55,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Betim / Nene",
+  "Data": "04/02/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 56,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "03/27/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 57,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "04/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 58,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "04/02/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 59,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 60,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "03/27/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 61,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "04/04/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 62,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 63,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "04/14/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 64,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Aloísio / João",
+  "Data": "04/08/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 65,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "04/09/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 66,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vini / Du",
+  "Data": "04/10/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 67,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "04/02/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 68,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "04/04/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 69,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 70,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "04/09/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 71,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "04/20/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 72,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Thyago / Xarope",
+  "Data": "04/10/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 73,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Will / Max",
+  "Data": "04/20/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 74,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Fabio / Fred",
+  "Data": "04/12/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 75,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "04/09/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 76,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Betim / Nene",
+  "Data": "04/19/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 77,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Vitim / Murilo"
+ },
+ {
+  "Jogo": 78,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "04/15/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 79,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Leo / Duzin"
+ },
+ {
+  "Jogo": 80,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "04/17/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 81,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "04/25/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 82,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 83,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "04/20/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 84,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "04/28/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 85,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Aloísio / João",
+  "Data": "04/22/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 86,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "04/28/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 87,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Vini / Du",
+  "Data": "04/23/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 88,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "04/20/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 89,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 90,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "04/22/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 91,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 92,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "04/23/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 93,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Thyago / Xarope",
+  "Data": "04/24/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 94,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Will / Max",
+  "Data": "04/25/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 95,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Fabio / Fred",
+  "Data": "04/28/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 96,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 97,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Betim / Nene",
+  "Data": "05/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 98,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 99,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "05/04/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 100,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "04/29/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 101,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 102,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 103,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "05/06/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 104,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "05/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 105,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 106,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Aloísio / João",
+  "Data": "04/30/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 107,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "05/13/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 108,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Vini / Du",
+  "Data": "05/10/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 109,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "05/03/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 110,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "05/08/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 111,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 112,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 113,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "05/06/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 114,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Thyago / Xarope",
+  "Data": "05/15/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 115,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Will / Max",
+  "Data": "05/13/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 116,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Fabio / Fred",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 117,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "05/09/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 118,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Betim / Nene"
+ },
+ {
+  "Jogo": 119,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "05/17/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 120,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "04/30/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 121,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "05/25/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 122,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 123,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 124,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "05/22/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 125,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 126,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 127,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Aloísio / João",
+  "Data": "05/15/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 128,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "05/20/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 129,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Vini / Du",
+  "Data": "05/21/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 130,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "05/21/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 131,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Fabio / Fred",
+  "Data": "06/01/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 132,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "05/24/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 133,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 134,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "05/20/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 135,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Thyago / Xarope",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 136,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Will / Max"
+ },
+ {
+  "Jogo": 137,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 138,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 139,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Betim / Nene",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 140,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "06/02/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 141,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "05/30/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 142,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 143,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "06/04/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 144,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 145,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "05/28/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 146,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "06/08/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 147,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 148,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Aloísio / João",
+  "Data": "05/27/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 149,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "06/01/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 150,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vini / Du",
+  "Data": "WO"
+ },
+ null,
+ {
+  "Jogo": 151,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "06/08/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 152,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 153,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "06/11/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 154,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 155,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "05/30/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 156,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Thyago / Xarope",
+  "Data": "06/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 157,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Will / Max",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 158,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Fabio / Fred"
+ },
+ {
+  "Jogo": 159,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "06/10/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 160,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Betim / Nene",
+  "Data": "WO"
+ },
+ null,
+ {
+  "Jogo": 161,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "06/04/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 162,
+  "Time_mandante": "Markim / Hanin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 163,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 164,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Betim / Nene",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 165,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 166,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 167,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 168,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 169,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Aloísio / João",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 170,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Felipe Benedetti / Gui",
+  "Data": "06/01/2024",
+  "Local": "ARENA 016"
+ },
+ null,
+ {
+  "Jogo": 171,
+  "Time_mandante": "Hugo / João Vitor ",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Cidim / Rafa",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 172,
+  "Time_mandante": "Aloísio / João",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vini / Du",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 173,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Luis Manoel / João Freato",
+  "Data": "06/10/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 174,
+  "Time_mandante": "Zeck / Biel",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Murilo / Baiano",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 175,
+  "Time_mandante": "Japa / Caio Marcio",
+  "Sets_mandante": 1,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Carlim / Peba",
+  "Data": "06/05/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 176,
+  "Time_mandante": "Berlocher / Vital",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Gito / Marcelo",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 177,
+  "Time_mandante": "Leo / Duzin",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Thyago / Xarope"
+ },
+ {
+  "Jogo": 178,
+  "Time_mandante": "Pituka / Rene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Will / Max"
+ },
+ {
+  "Jogo": 179,
+  "Time_mandante": "Vitim / Murilo",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Fabio / Fred",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 180,
+  "Time_mandante": "Betim / Nene",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "WO"
+ },
+ null,
+ {
+  "Jogo": 181,
+  "Time_mandante": "Fabio / Fred",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Betim / Nene",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 182,
+  "Time_mandante": "Luis Manoel / João Freato",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Markim / Hanin",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 183,
+  "Time_mandante": "Will / Max",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Vitim / Murilo",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 184,
+  "Time_mandante": "Thyago / Xarope",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Pituka / Rene",
+  "Data": "06/09/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 185,
+  "Time_mandante": "Gito / Marcelo",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Leo / Duzin",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 186,
+  "Time_mandante": "Carlim / Peba",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Berlocher / Vital",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 187,
+  "Time_mandante": "Murilo / Baiano",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 1,
+  "Time_visitante": "Japa / Caio Marcio",
+  "Data": "06/15/2024",
+  "Local": "ARENA 016"
+ },
+ {
+  "Jogo": 188,
+  "Time_mandante": "Cidim / Rafa",
+  "Sets_mandante": 0,
+  "X": "X",
+  "Sets_visitante": 2,
+  "Time_visitante": "Zeck / Biel",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 189,
+  "Time_mandante": "Vini / Du",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Hugo / João Vitor ",
+  "Data": "WO"
+ },
+ {
+  "Jogo": 190,
+  "Time_mandante": "Felipe Benedetti / Gui",
+  "Sets_mandante": 2,
+  "X": "X",
+  "Sets_visitante": 0,
+  "Time_visitante": "Aloísio / João",
+  "Data": "WO"
+ }
+]
+}
